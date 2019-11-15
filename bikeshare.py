@@ -43,7 +43,7 @@ def choose_month() :
             try: 
                 m_input = int(m_input)
             except:
-                print ('Invalid value, try again')      
+                print ('Sorry, Invalid value, try again')      
                 m_input = 0      
             if(1 <= m_input <= 12):
                 month = m_input     
