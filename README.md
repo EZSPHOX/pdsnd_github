@@ -15,7 +15,7 @@ Python version 3 prefered
 Pandas module
 Numpy module
 Installation
-Clone this project and run from console
+Clone this project from github and run from console
     $ python bikeshare.py
 Copyright and licensing information.
 Known bugs
